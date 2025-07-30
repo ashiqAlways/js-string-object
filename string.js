@@ -21,7 +21,7 @@ console.log(numbers)
 const capital = 'Dhaka';
 // console.log(capital.length);
 // console.log(capital[2]);
-console.log(capital);
+// console.log(capital);
 capital[0] = 'F';
 console.log(capital);
 
